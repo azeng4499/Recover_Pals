@@ -8,7 +8,7 @@ const SignInPage = () => {
     <>
       <Navbar isSignIn={true} />
       <SignIn />
-      <Footer />{" "}
+      <Footer />
     </>
   );
 };

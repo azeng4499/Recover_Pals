@@ -23,7 +23,7 @@ import {
   InputBox,
   BigText,
 } from "./ChatroomComponents";
-import User from "./User/User";
+import User  from "./User/User";
 import Message from "./Message/Message";
 
 const Chatroom = () => {

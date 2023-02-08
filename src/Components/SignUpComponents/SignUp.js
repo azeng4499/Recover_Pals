@@ -184,6 +184,7 @@ const SignUp = () => {
       <PictureContainer>
         <div className="image_container">
           <img
+            alt=""
             src={
               data.url
                 ? data.url
